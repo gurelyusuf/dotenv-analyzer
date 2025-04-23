@@ -1,6 +1,6 @@
 # dotenv-analyzer
 
-A lightweight, powerful tool for analyzing `.env` files, checking for security issues, and generating clean example configuration files.
+A lightweight tool for analyzing `.env` files, checking for security issues, and generating clean example configuration files.
 
 
 <p align="center">
@@ -94,10 +94,10 @@ LOG_LEVEL=value_here
 CORS_ORIGIN=value_here
 ```
 
-### Feedback
+## Feedback
 
 If you have any feedback, please reach out to my [email](mailto:yusufgureldev@gmail.com)
 
-### License
+## License
 
 MIT License. See [LICENSE](LICENSE) for details.

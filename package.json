@@ -10,6 +10,10 @@
       "start": "node env-analyzer.js",
       "test": "jest"
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gurelyusuf/dotenv-analyzer.git"
+    },
     "keywords": [
       "env",
       "environment",
