@@ -1,6 +1,6 @@
 {
-    "name": "env-analyzer",
-    "version": "1.0.0",
+    "name": "dotenv-analyzer",
+    "version": "1.0.1",
     "description": "Tool for analyzing .env files, performing security checks, and generating example files",
     "main": "env-analyzer.js",
     "bin": {
@@ -18,7 +18,7 @@
       "dotenv",
       "configuration"
     ],
-    "author": "Yusuf Gürel",
+    "author": "Yusuf Gurel <yusufgureldev@gmail.com>",
     "license": "MIT",
     "dependencies": {
       "chalk": "^4.1.2"

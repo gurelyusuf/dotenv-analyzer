@@ -1,15 +1,15 @@
-# env-analyzer
+# dotenv-analyzer
 
 A lightweight, powerful tool for analyzing `.env` files, checking for security issues, and generating clean example configuration files.
 
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/env-analyzer">
-    <img src="https://img.shields.io/npm/v/env-analyzer.svg" alt="npm version">
+  <a href="https://www.npmjs.com/package/dotenv-analyzer">
+    <img src="https://img.shields.io/npm/v/dotenv-analyzer.svg" alt="npm version">
   </a>
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-<a href="https://github.com/gurelyusuf/env-analyzer/commits main">
-  <img src="https://img.shields.io/github/last-commit/gurelyusuf/env-analyzer" alt="Last Commit">
+<a href="https://github.com/gurelyusuf/dotenv-analyzer/commits main">
+  <img src="https://img.shields.io/github/last-commit/gurelyusuf/dotenv-analyzer" alt="Last Commit">
 </a>
 </p>
 
