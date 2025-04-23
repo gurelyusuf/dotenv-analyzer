@@ -1,0 +1,29 @@
+{
+    "name": "env-analyzer",
+    "version": "1.0.0",
+    "description": "Tool for analyzing .env files, performing security checks, and generating example files",
+    "main": "env-analyzer.js",
+    "bin": {
+      "env-analyzer": "./env-analyzer.js"
+    },
+    "scripts": {
+      "start": "node env-analyzer.js",
+      "test": "jest"
+    },
+    "keywords": [
+      "env",
+      "environment",
+      "security",
+      "analysis",
+      "dotenv",
+      "configuration"
+    ],
+    "author": "Yusuf Gürel",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^4.1.2"
+    },
+    "devDependencies": {
+      "jest": "^29.5.0"
+    }
+  }
