@@ -4,13 +4,10 @@ A lightweight tool for analyzing `.env` files, checking for security issues, and
 
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/dotenv-analyzer">
-    <img src="https://img.shields.io/npm/v/dotenv-analyzer.svg" alt="npm version">
-  </a>
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-<a href="https://github.com/gurelyusuf/dotenv-analyzer/commits main">
-  <img src="https://img.shields.io/github/last-commit/gurelyusuf/dotenv-analyzer" alt="Last Commit">
-</a>
+<img src="https://img.shields.io/npm/v/dotenv-analyzer.svg" alt="npm version" />
+<img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
+<img src="https://img.shields.io/github/last-commit/gurelyusuf/dotenv-analyzer" alt="Last Commit" />
+<img src="https://img.shields.io/npm/dt/dotenv-analyzer.svg" alt="Downloads" />
 </p>
 
 
